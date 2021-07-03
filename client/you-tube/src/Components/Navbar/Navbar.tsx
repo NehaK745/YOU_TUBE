@@ -33,7 +33,7 @@ const Navbar: React.FC = () => {
          <button id="profilePic"> </button>
 
         ):(
-          <button id = "sign-in">sign In </button>
+          <button id = "sign-in">Sign In </button>
         )}
         
           
