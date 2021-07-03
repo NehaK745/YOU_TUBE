@@ -1,0 +1,25 @@
+.SIP{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SIP .Container{
+    border: 2px solid rgb(146, 146, 207);
+    width: 600px;
+    height: 500px;
+}
+.top{
+    background-color:transparent;
+    border: none;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.body{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 250px;
+  
+}
